@@ -1,0 +1,7 @@
+spotipy==2.19.0
+requests==2.27.1
+Flask==2.0.2
+setuptools==57.0.0
+redis==4.1.2
+timedelta==2020.12.3
+Werkzeug==2.2.2
